@@ -1,6 +1,6 @@
 {
   "name": "component-asterisk-no-tags",
-  "version": "0.0.1"
+  "version": "0.0.1",
   "scripts": ["index.js"],
   "main": "index.js"
 }
